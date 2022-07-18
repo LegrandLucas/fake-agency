@@ -1,0 +1,28 @@
+.navbar-contaier {
+  height: 20vh;
+}
+
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--white);
+  padding: 20px
+}
+
+.navbar-title {
+  font-size: 50px;
+  margin-right: 50px;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: space-between;
+
+  li {
+    margin-right: 5px;
+  }
+}

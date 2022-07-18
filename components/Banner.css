@@ -1,5 +1,5 @@
 .banner-container {
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -8,7 +8,6 @@
 }
 .banner-title {
     color: var(--white);
-    font-family: 'Space Mono', monospace;
     font-weight: 600;
     font-size: 100px;
     margin-top: 30px;
